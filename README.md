@@ -3,4 +3,4 @@ Company Name Generator
 
 For the Docker Fundamentals class
 
-Testing in Docker Class 2
+Test 2 of auto-build in Docker Class 2
